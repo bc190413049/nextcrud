@@ -4,7 +4,7 @@ export default function Table(){
             <thead>
                 <tr className="bg-gray-800">
                     <th className="px-16 py-2">
-                        <span className="text-gray-200">Name</span>
+                        <span className="text-gray-200">Name </span>
                     </th>
                     <th className="px-16 py-2">
                         <span className="text-gray-200">E-mail</span>
