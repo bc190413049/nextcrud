@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-git clone -b main https://github.com/bc190413049/nextcrud.git
+git clone -b nextcrud https://github.com/bc190413049/nextcrud.git
 cd nextcrud
 code .
 ```
